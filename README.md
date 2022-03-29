@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @studzin-sky
-- 👀 I’m interested in fun activities. Swimming? Yes. Cars? Yes. Dining? Yes. Pokemon? Of Course!
+- 👀 I’m interested in fun activities. Excersising? Something new but hell yes. Cars? Yes. Dining? Yes. Pokemon? Of Course!
 - 🌱 I’m currently learning React, TypeScript and Redux.
 - 💞️ I’m looking to collaborate on some interesting projects where I could take some knowledge out of it.
 - 📫 How to reach me @studzinsky on ig, here (obvs) and maybe e-mail: the.stucc@gmail.com <✌️>
