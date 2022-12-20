@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @studzin-sky
-- 👀 I’m interested in fun activities. Excersising? Something new but hell yes. Cars? Yes. Dining? Yes. Pokemon? Of Course!
-- 🌱 I’m currently learning React, TypeScript and Redux.
-- 💞️ I’m looking to collaborate on some interesting projects where I could take some knowledge out of it.
-- 📫 How to reach me @studzinsky on ig, here (obvs) and maybe e-mail: the.stucc@gmail.com <✌️>
+- I'm a junior software developer @ SoniqSoft Software House 
+- I'm interested more in backend 
+- My language of choice is JavaScript
+- Trying all kinds of frameworks
 
 <img alt="CodeWars Badge" src="https://www.codewars.com/users/studzin-sky/badges/small">
 
