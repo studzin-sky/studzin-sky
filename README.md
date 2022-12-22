@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @studzin-sky
 - I'm a junior software developer @ SoniqSoft Software House 
-- I'm interested more in backend 
 - My language of choice is JavaScript
 - Trying all kinds of frameworks
 
