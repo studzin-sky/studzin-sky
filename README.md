@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @studzin-sky
 - I'm a junior software developer @ SoniqSoft Software House 
-- My language of choice is JavaScript
+- My language of choice is JavaScript and C#
 - Trying all kinds of frameworks
 
 <img alt="CodeWars Badge" src="https://www.codewars.com/users/studzin-sky/badges/small">
