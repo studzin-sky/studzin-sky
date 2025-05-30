@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @studzin-sky
-- I'm a junior software developer @ SoniqSoft Software House 
+- I'm a junior software developer @ Beumer Group
 - My language of choice is JavaScript and C#
 - Trying all kinds of frameworks
 
